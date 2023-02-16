@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Game library app
+
+Game app with React, MUI, Bootstrap, Node, Express and SQLite. Assignment for Frontend programming course.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
