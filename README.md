@@ -2,6 +2,8 @@
 
 Game app with React, MUI, Bootstrap, Node, Express and SQLite. Assignment for Frontend programming course.
 
+The app has CRUD operations. The user can also search for games that are on the library. Data from Random User Generator API is used for user profile page.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
